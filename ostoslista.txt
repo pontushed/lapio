@@ -1,4 +1,3 @@
 total 8
 -rw-r--r--  1 pontus  staff  0  1 Syy 07:01 lapio_vko2.txt
 -rw-r--r--  1 pontus  staff  0  1 Syy 07:05 ostoslista.txt
--rw-r--r--  1 pontus  staff  7  1 Syy 07:04 tarina.txt
